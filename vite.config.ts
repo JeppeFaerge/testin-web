@@ -1,8 +1,8 @@
-ts
+import { defineConfig } from "vite";
 
 export default defineConfig({
   base: "/testin-web/",
-  
+});
 })
 import { defineConfig } from 'vite'
 import path from 'path'
