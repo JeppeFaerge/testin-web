@@ -1,3 +1,9 @@
+ts
+
+export default defineConfig({
+  base: "/testin-web/",
+  
+})
 import { defineConfig } from 'vite'
 import path from 'path'
 import tailwindcss from '@tailwindcss/vite'
